@@ -12,7 +12,7 @@
 |**동아리 활동**|2019.04 ~ 2020.11.19|디스이즈 서버팀장|**디스이즈**|
 |**경력**|2019.07.22 ~ 2020.02.29 |핸드메이드 작가 중심 플랫폼 스타트업 아더벨류 웹개발자|**아더벨류**|
 |**동아리 활동**|2020.11.19 ~ |디스이즈 팀장|**디스이즈**|
-|**연구**|2021.09.01 ~ |인턴 연구원|**동아대학교**|
+|**연구**|2021.09.01 ~ |인턴 연구원|**동아대학교 데이터사이언스랩**|
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp; 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
