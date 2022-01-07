@@ -1,9 +1,4 @@
-### LeeHoJun(LeeDanWoo) GitHub
-
-
-  <div>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lhojun&count_private=true&show_icon=true&theme=graywhite)](https://github.com/lhojun/github-readme-stats)
+### LeeHoJun(DanWoo) GitHub
 
 |구분|날짜|내용|소속|
 |:-:|:-:|:-:|:-:|
