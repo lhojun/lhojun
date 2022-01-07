@@ -1,4 +1,4 @@
-### LeeHoJun(DanWoo) GitHub
+### LeeHoJun(danu) GitHub
 
 |구분|날짜|내용|소속|
 |:-:|:-:|:-:|:-:|
