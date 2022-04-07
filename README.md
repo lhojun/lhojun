@@ -1,4 +1,5 @@
-### LeeHoJun(danu) GitHub
+### LeeHoJun(danu) GitHub   
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://danu.dev)](https://danu.dev)   
 
 |구분|날짜|내용|소속|
 |:-:|:-:|:-:|:-:|
@@ -9,6 +10,9 @@
 |**비영리단체 활동**|2020.11.19 ~ 2021.12.27|디스이즈 대표|**디스이즈 개발팀**|
 |**연구**|2021.09.01 ~ |인턴 연구원|**동아대학교 IRLAB**|
 
+##  Papers
+- Hojun Lee, Mingyu Jo, Jungkyu Han, Sejin Chun, "Nakdong River Estuary Salinity Prediction Using Machine Learning Methods", _Smart Media Journal_, Vol. 11, No. 2, pp. 31-38, Mar., 2022. ([10.30693/SMJ.2022.11.2.31](https://dx.doi.org/10.30693/SMJ.2022.11.2.31))&nbsp;   
+       
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp; 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp; 
@@ -26,7 +30,7 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flhojun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://danu.dev)](https://danu.dev)
+
 	
 
   </div>
