@@ -11,7 +11,7 @@
 |**연구**|2021.09.01 ~ |인턴 연구원|**동아대학교 IRLAB**|
 
 ##  Papers
-- Hojun Lee, Mingyu Jo, Jungkyu Han, Sejin Chun, "Nakdong River Estuary Salinity Prediction Using Machine Learning Methods", _Smart Media Journal_, Vol. 11, No. 2, pp. 31-38, Mar., 2022. ([10.30693/SMJ.2022.11.2.31](https://dx.doi.org/10.30693/SMJ.2022.11.2.31))&nbsp;   
+- **Hojun Lee**<sup>*</sup>, Mingyu Jo, Jungkyu Han, Sejin Chun, "Nakdong River Estuary Salinity Prediction Using Machine Learning Methods", _Smart Media Journal_, Vol. 11, No. 2, pp. 31-38, Mar., 2022. ([10.30693/SMJ.2022.11.2.31](https://dx.doi.org/10.30693/SMJ.2022.11.2.31))&nbsp;   
        
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp; 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
