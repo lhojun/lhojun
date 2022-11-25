@@ -8,7 +8,7 @@
 |**비영리단체 활동**|2019.04 ~ 2020.11.19|디스이즈 서버팀장|**디스이즈 개발팀**|
 |**경력**|2019.07.22 ~ 2020.02.29 |핸드메이드 작가 중심 플랫폼 스타트업 아더벨류 웹개발자|**아더벨류**|
 |**비영리단체 활동**|2020.11.19 ~ 2021.12.27|디스이즈 대표|**디스이즈 개발팀**|
-|**연구**|2021.09.01 ~ |인턴 연구원|**동아대학교 IRLAB**|
+|**연구**|2021.09.01 ~ 2022.12.01|인턴 연구원|**동아대학교 IRLAB**|
 
 ##  Papers
 - **Hojun Lee**<sup>*</sup>, Mingyu Jo, Jungkyu Han, Sejin Chun, "Nakdong River Estuary Salinity Prediction Using Machine Learning Methods", _Smart Media Journal_, Vol. 11, No. 2, pp. 31-38, Mar., 2022. ([10.30693/SMJ.2022.11.2.31](https://dx.doi.org/10.30693/SMJ.2022.11.2.31))&nbsp;   
